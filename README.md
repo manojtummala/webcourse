@@ -5,10 +5,9 @@ This is the web page(Still under development): https://manojtummala.github.io/we
 # Coursera-WebDev-JHU-Assignments
 
 ### HTML, CSS, JavaScript for Web Developers
----
-This repository contains my solutions to the Module - 2, 3, 4, 5 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera and some other assignments of other courses... 
 
----
+This repository contains my solutions to the Module - 2, 3, 4, 5 Coding Assignments for the course ["HTML, CSS, and Javascript for Web Developers"](https://www.coursera.org/learn/html-css-javascript-for-web-developers) course by [Yaakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin). 
+
 **Assignment Links:**
 
 - [Module 2 Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
