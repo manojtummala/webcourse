@@ -27,7 +27,7 @@ Mockup illustrations are present in the Assignment documents.
 
 - [Module 3 Solution](https://manojtummala.github.io/webcourse/module-3-solution)
 
-- [Module 4 Solution](http://manojtummala.github.io/webcourse/module-4-solution/index.html)
+- [Module 4 Solution](http://manojtummala.github.io/webcourse/module-4-solution)
 
 - [Module 5 Solution](http://manojtummala.github.io/webcourse/module-5-solution/index.html)
 
