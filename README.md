@@ -1,6 +1,6 @@
 # webcourse
 
-This is the web page(Still under development): https://manojtummala.github.io/webcourse/.
+This is the web page [Still under development](https://manojtummala.github.io/webcourse/).
 
 # Coursera-WebDev-JHU-Assignments
 
